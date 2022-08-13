@@ -1,7 +1,7 @@
 ![IronHack_Logo](https://user-images.githubusercontent.com/92721547/180665853-e52e3369-9973-4c1e-8d88-1ecef1eb8e9e.png)
 # Lab | Installing PowerBi Desktop (Optional)
 
-In this session of Unit 4 we will be learning PowerBI and you are going to need PowerBi Desktop intalled for this session. 
+In this session of Unit 4 we will be learning PowerBI and you are going to need PowerBi Desktop installed for this session. 
 If you already have PowerBi Desktop installed then you can skip this lab as it is an optional one. 
 
 
